@@ -1,7 +1,7 @@
 # Welcome to the MUTCU Backend API Project
 Welcome to the MUTCU Backend API project! This repository contains the backend services for the Murang'a University Christian Union (MUTCU) application. Our goal is to provide robust and efficient APIs that will be consumed by the MUTCU mobile application, enhancing the experience of our users.
 
-#Table of Contents
+# Table of Contents
 1. Project Overview
 2. Technology Stack
 3. Features
@@ -12,12 +12,12 @@ Welcome to the MUTCU Backend API project! This repository contains the backend s
 The MUTCU Backend API is designed to support the activities and operations of the Murang'a University Christian Union. This includes features such as event management, member registration, notifications, and more. The backend is built using Node.js and is intended to be consumed by a mobile application used by the members of MUTCU.
 
 # Technology Stack
-* Node.js: Our main runtime environment for building the backend API.
-* JWT: JSON Web Tokens for authentication and authorization.
-* MySQL: A relational database for storing application data.
+* <b>Node.js</b>: Our main runtime environment for building the backend API.
+* <b>JWT</b>: JSON Web Tokens for authentication and authorization.
+* <b>MySQL</b>: A relational database for storing application data.
 
 # Features
-* The MUTCU Backend API includes the following modules:
+The MUTCU Backend API includes the following modules:
 
 1. <b>Users</b>: Handles user registration, login, profile management, and authentication.
 2. <b>Prayers</b>: Manages prayer requests, prayer chains, and related activities.
@@ -29,12 +29,7 @@ The MUTCU Backend API is designed to support the activities and operations of th
 # Getting Started
 To get a local copy of the project up and running, follow these steps:
 
-Prerequisites
-Node.js (v14.x or later)
-npm (v6.x or later)
-MySQL (v8.x or later)
-Installation
-Clone the repository:
+
 
 # API Documentation
 The API documentation will be provided in detail, outlining all available endpoints, request parameters, and responses. You can find the detailed documentation here.
