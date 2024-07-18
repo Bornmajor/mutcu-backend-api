@@ -1,4 +1,4 @@
-vvvvvvvvvvvvvconst express = require('express');
+const express = require('express');
 const mysql = require('mysql');
 const bodyParser = require('body-parser');
 const { body, validationResult } = require('express-validator');
